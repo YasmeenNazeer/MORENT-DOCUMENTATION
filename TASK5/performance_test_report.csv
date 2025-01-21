@@ -1,0 +1,13 @@
+Metric,Value,Observation
+Performance Score,50,Below average. Several areas need improvement.
+Accessibility Score,89,"Good, but there is room for minor enhancements."
+Best Practices Score,70,"Critical issues identified, especially in JS handling."
+SEO Score,100,Excellent. No improvements needed here.
+JavaScript Execution Time,6.3s,High JS execution time. Optimize scripts.
+Main-thread Work,8.3s,Excessive work on the main thread. Reduce computations.
+Minify JavaScript,Potential savings of 5 KiB,Consider minifying JS files.
+Page Restoration,3 failure reasons,Resolve issues preventing back/forward cache restoration.
+Minify CSS,Potential savings of 2 KiB,Minify CSS files to reduce load times.
+Unused JavaScript,104 KiB,Remove unused JS to improve performance.
+Enormous Network Payloads,"3,237 KiB",Optimize image and asset sizes to reduce payload.
+Initial Server Response Time,290ms,Server response time is acceptable but can be improved.
